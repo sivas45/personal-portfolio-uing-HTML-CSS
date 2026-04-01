@@ -1,0 +1,123 @@
+body{
+
+  background-image:url(https://static.vecteezy.com/system/resources/previews/008/145/959/non_2x/white-book-on-a-table-with-light-of-the-window-shadow-overlay-realistic-mockup-with-sun-flare-effect-vector.jpg);
+  background-position: center;
+  background-repeat: no-repeatrepeat;
+  background-attachment: scroll;
+  background-size: cover;
+  opacity: 125%;
+
+  font-size: large;
+  font-weight:lighter;
+  font-family:'Times New Roman', Times, serif;
+  line-height: 30px;
+  text-justify: auto;
+ }
+
+
+ #resume{
+
+  border-style: inherit; 
+  height:auto;
+  width: auto;
+  border-color: black;
+  padding: 20px 20px;
+  margin:20px 40%;
+  color:#8D2B1E;
+  text-align: center;
+  text-shadow: 2.5px 2.5px lightblue;
+  outline: invert;
+  outline-width: 20px;
+}
+
+
+ #image{
+  border: 5px double #7ACDE9;
+  margin:0% 44.5%;
+ }
+
+
+ #text{
+  color: rgb(22, 22, 22);
+  border: 1px solid transparent;
+  margin: 0px 44.5%;
+  font-weight:bolder;
+ }
+
+
+#red-text{
+  color: rgb(231, 57, 57);
+  font-size: larger;
+  border-style:solid ;
+  border-color: transparent;
+  padding: 0px 20px 0px 10px;
+  margin:center;
+  text-align: center;
+}
+
+
+#info-text{
+text-align:center; 
+}
+
+.below{
+  border-style: solid;
+  border-color: transparent;
+  margin: 0px 0px 0px 5%;
+
+}
+
+
+.skill-hobbies{
+  color:blue;
+}
+
+
+.project{
+  color:red;
+}
+
+
+/*--tables strats from here--*/
+
+table{
+  border: 1.6px solid;
+  background-color: beige;
+  border-collapse: collapse;
+}
+
+.table-heading{
+  color: firebrick;
+}
+
+th{ 
+  border: 1.6px solid;
+  background-color: khaki;
+  border-collapse: collapse;
+}
+
+td{
+  border: 1.6px dashed;
+  border-collapse: collapse;
+}
+
+.project-link{
+border: 7px double;
+margin: 20px 0px 10px 0px;
+padding: 10px 10px;
+width: max-content;
+text-align: justify;
+background-color: aliceblue;
+}
+
+/*--tables ends here--*/
+
+
+.contact{
+  color: mediumslateblue}
+
+
+.end{
+  text-decoration: double underline;
+}
+
